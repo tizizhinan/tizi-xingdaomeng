@@ -56,7 +56,7 @@
 
 - [2026 翻墙机场推荐总榜（收录 8 家）](https://github.com/tizizhinan/tizi) · [完整版](https://tizizhinan.com/airport/recommend/)
 - [机场横评：8 家逐项对比](https://tizizhinan.com/blog/tizi-recommend-2026/)
-- [每日自动监测：官网可达性与节点连通率](https://tizizhinan.com/status/)
+- [每日自动监测：官网可达性](https://tizizhinan.com/status/)
 - [跑路预警查询](https://tizizhinan.com/runaway/) · [评测方法论](https://tizizhinan.com/about/methodology/)
 
 > 价格与解锁状态以官网结算页为准，本页数据复核于 2026-09-18。本站为推广联盟成员，通过本页链接购买不影响你的价格。
@@ -69,10 +69,10 @@
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-09-21 20:00 |
-| 官网状态 | 在线（213ms） |
-| 30 天可用率 | 100%（已测 4 天） |
-| 连续正常 | 4 天 |
+| 最近一次检测 | 2026-09-22 20:00 |
+| 官网状态 | 在线（352ms） |
+| 30 天可用率 | 100%（已测 5 天） |
+| 连续正常 | 5 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.com/status/](https://tizizhinan.com/status/)，机器可读数据见 [monitor.json](https://tizizhinan.com/data/monitor.json)（CC BY 4.0）。
 
